@@ -1,0 +1,21 @@
+*{
+  font-family:helvetica,verdana,monospace;
+
+}
+
+
+
+h1 {
+  color:#7AC7C2;
+}
+p {
+  color:#7AC7C2;
+  font-style: italic;
+}
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/20/df/ec/20dfec59d8019c417abbd3f05ae9398a.jpg");
+}
+
+#nombre{
+  font-style: monospace;
+}
